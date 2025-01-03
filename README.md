@@ -29,9 +29,9 @@ This project establishes a robust Continuous Integration (CI) pipeline utilizing
 ## Walk-through:
 
 
- ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/Diagramm.png) 
- ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/AmazonMQ.png) 
- ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/EC2.png)
+ ![First try](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack/blob/main/Diagramm_jen_2.png) 
+ ![First try](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack/blob/main/aws_ec2.png) 
+ ![First try](https://github.com/Vlad774/CI_Jenkins_Sonar_Nexus_Slack/blob/main/sec_group.png)
  ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/ENV.png)
  ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/RDS.png)
  ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/cloudfront.png)
